@@ -1,0 +1,60 @@
+/* 
+  Localizable.strings
+  CaperucitaRoja
+
+  Created by Verónica Cordobés on 23/9/15.
+  Copyright (c) 2015 Verónica Cordobés. All rights reserved.
+*/
+//"CaperucitaRoja" = "LittleRedRidingHood";
+"Little Red Riding Hood" = "Little Red Riding Hood";
+"title_en" = "title_en";
+"buttonStart" = "buttonStart";
+"buttonGames" = "buttonGames";
+"00_1_en.mp3" = "00_1_en.mp3";
+"01_1_en.mp3" = "01_1_en.mp3";
+"01_2_en.mp3" = "01_2_en.mp3";
+"02_1_en.mp3" = "02_1_en.mp3";
+"01_1_1_en.mp3" = "01_1_1_en.mp3";
+"03_1_en.mp3" = "03_1_en.mp3";
+"03_2_en.mp3" = "03_2_en.mp3";
+"04_1_en.mp3" = "04_1_en.mp3";
+"04_2_en.mp3" = "04_2_en.mp3";
+"05_1_en.mp3" = "05_1_en.mp3";
+"06_1_en.mp3" = "06_1_en.mp3";
+"06_2_en.mp3" = "06_2_en.mp3";
+"06_3_en.mp3" = "06_3_en.mp3";
+"06_4_en.mp3" = "06_4_en.mp3";
+"06_5_en.mp3" = "06_5_en.mp3";
+"06_6_en.mp3" = "06_6_en.mp3";
+"06_7_en.mp3" = "06_7_en.mp3";
+"06_8_en.mp3" = "06_8_en.mp3";
+"06_9_en.mp3" = "06_9_en.mp3";
+"08_1_en.mp3" = "08_1_en.mp3";
+"10_1_en.mp3" = "10_1_en.mp3";
+"11_1_en.mp3" = "11_1_en.mp3";
+"11_2_en.mp3" = "11_2_en.mp3";
+"11_3_en.mp3" = "11_3_en.mp3";
+"11_4_en.mp3" = "11_4_en.mp3";
+"11_5_en.mp3" = "11_5_en.mp3";
+"11_6_en.mp3" = "11_6_en.mp3";
+"12_1_en.mp3" = "12_1_en.mp3";
+"12_2_en.mp3" = "12_2_en.mp3";
+"12_3_en.mp3" = "12_3_en.mp3";
+"12_4_en.mp3" = "12_4_en.mp3";
+"12_5_en.mp3" = "12_5_en.mp3";
+"12_6_en.mp3" = "12_6_en.mp3";
+"12_7_en.mp3" = "12_7_en.mp3";
+"13_1_en.mp3" = "13_1_en.mp3";
+"14_1_en.mp3" = "14_1_en.mp3";
+"14_2_en.mp3" = "14_2_en.mp3";
+"14_3_en.mp3" = "14_3_en.mp3";
+"14_4_en.mp3" = "14_4_en.mp3";
+"14_5_en.mp3" = "14_5_en.mp3";
+"14_6_en.mp3" = "14_6_en.mp3";
+"14_7_en.mp3" = "14_7_en.mp3";
+"14_8_en.mp3" = "14_8_en.mp3";
+"15_1_en.mp3" = "15_1_en.mp3";
+"16_1_en.mp3" = "16_1_en.mp3";
+"17_1_en.mp3" = "17_1_en.mp3";
+"18_1_en.mp3" = "18_1_en.mp3";
+"labelEnd" = "labelEnd";

@@ -1,0 +1,98 @@
+<laberintosCapuchas>
+    <capucha num="1">
+        <posicionC num="1" x="414" y="374"/>
+        <posicionC num="2" x="346" y="480"/>
+        <posicionC num="3" x="484" y="644"/>
+        <posicionC num="4" x="620" y="476"/>
+        <posicionC num="5" x="553" y="374"/>
+        <posicionC num="6" x="690" y="110"/>
+        <posicionC num="7" x="529" y="110"/>
+        <posicionC num="8" x="482" y="350"/>
+        <posicionC num="9" x="431" y="110"/>
+        <posicionC num="10" x="278" y="110"/>
+        <posicionC num="11" x="414" y="374"/>
+        <linea num="1" imagen="line12" posx="380" posy="436"/>
+        <linea num="2" imagen="line23" posx="414" posy="570"/>
+        <linea num="3" imagen="line34" posx="552" posy="567"/>
+        <linea num="4" imagen="line45" posx="588" posy="435"/>
+        <linea num="5" imagen="line56" posx="622,5" posy="248,5"/>
+        <linea num="6" imagen="line67" posx="611,5" posy="116"/>
+        <linea num="7" imagen="line78" posx="507,5" posy="239"/>
+        <linea num="8" imagen="line89" posx="459" posy="239"/>
+        <linea num="9" imagen="line910" posx="356" posy="116"/>
+        <linea num="10" imagen="line1011" posx="345" posy="249"/>
+    </capucha>
+    <puzzle num="1">
+        <pieza num="1" xcorrect="349" ycorrect="518"/>
+        <pieza num="2" xcorrect="508" ycorrect="530"/>
+        <pieza num="3" xcorrect="672" ycorrect="518"/>
+        <pieza num="4" xcorrect="356,5" ycorrect="378"/>
+        <pieza num="5" xcorrect="507,5" ycorrect="378"/>
+        <pieza num="6" xcorrect="664" ycorrect="378"/>
+        <pieza num="7" xcorrect="343" ycorrect="243"/>
+        <pieza num="8" xcorrect="507,5" ycorrect="231"/>
+        <pieza num="9" xcorrect="677" ycorrect="243"/>
+    </puzzle>
+    <puzzle num="2">
+        <pieza num="1" xcorrect="326,5" ycorrect="544"/>
+        <pieza num="2" xcorrect="447" ycorrect="552"/>
+        <pieza num="3" xcorrect="575" ycorrect="544"/>
+        <pieza num="4" xcorrect="694,5" ycorrect="552"/>
+        <pieza num="5" xcorrect="332,5" ycorrect="440,5"/>
+        <pieza num="6" xcorrect="447,5" ycorrect="439,5"/>
+        <pieza num="7" xcorrect="575,5" ycorrect="439,5"/>
+        <pieza num="8" xcorrect="703,5" ycorrect="439,5"/>
+        <pieza num="9" xcorrect="322" ycorrect="328"/>
+        <pieza num="10" xcorrect="447" ycorrect="327,5"/>
+        <pieza num="11" xcorrect="575,5" ycorrect="327,5"/>
+        <pieza num="12" xcorrect="694,5" ycorrect="327"/>
+        <pieza num="13" xcorrect="331" ycorrect="218"/>
+        <pieza num="14" xcorrect="447" ycorrect="228"/>
+        <pieza num="15" xcorrect="575,5" ycorrect="217"/>
+        <pieza num="16" xcorrect="704" ycorrect="226"/>
+    </puzzle>
+    <puzzle num="3">
+      </puzzle>
+    <memory num="1">
+        <piezaM num="0" nombre="Eyes"/>
+        <piezaM num="1" nombre="Feet"/>
+        <piezaM num="2" nombre="Teeth"/>
+        <piezaM num="3" nombre="Eyes"/>
+        <piezaM num="4" nombre="Ear"/>
+        <piezaM num="5" nombre="Tail"/>
+        <piezaM num="6" nombre="Snout"/>
+        <piezaM num="7" nombre="Ear"/>
+        <piezaM num="8" nombre="Feet"/>
+        <piezaM num="9" nombre="Tail"/>
+        <piezaM num="10" nombre="Snout"/>
+        <piezaM num="11" nombre="Teeth"/>
+    </memory>
+    <memory num="2">
+        <piezaM num="0" nombre="Ear"/>
+        <piezaM num="1" nombre="Teeth"/>
+        <piezaM num="2" nombre="Tail"/>
+        <piezaM num="3" nombre="Snout"/>
+        <piezaM num="4" nombre="Eyes"/>
+        <piezaM num="5" nombre="Tail"/>
+        <piezaM num="6" nombre="Feet"/>
+        <piezaM num="7" nombre="Eyes"/>
+        <piezaM num="8" nombre="Ear"/>
+        <piezaM num="9" nombre="Teeth"/>
+        <piezaM num="10" nombre="Feet"/>
+        <piezaM num="11" nombre="Snout"/>
+    </memory>
+    <memory num="3">
+        <piezaM num="0" nombre="Snout"/>
+        <piezaM num="1" nombre="Tail"/>
+        <piezaM num="2" nombre="Ear"/>
+        <piezaM num="3" nombre="Eyes"/>
+        <piezaM num="4" nombre="Feet"/>
+        <piezaM num="5" nombre="Teeth"/>
+        <piezaM num="6" nombre="Eyes"/>
+        <piezaM num="7" nombre="Snout"/>
+        <piezaM num="8" nombre="Teeth"/>
+        <piezaM num="9" nombre="Tail"/>
+        <piezaM num="10" nombre="Ear"/>
+        <piezaM num="11" nombre="Feet"/>
+    </memory>
+</laberintosCapuchas>
